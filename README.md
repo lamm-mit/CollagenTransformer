@@ -1,5 +1,7 @@
 # CollagenTransformer
 
+![image](https://user-images.githubusercontent.com/101393859/192001862-cab20dbb-2829-4614-845c-accccae55c44.png)
+
 Original paper: 
 
 CollagenTransformer: End-to-End Transformer Model to Predict Thermal Stability of Collagen Triple Helices Using an NLP Approach
