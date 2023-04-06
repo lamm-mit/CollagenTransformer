@@ -11,8 +11,12 @@ mbuehler@mit.edu
 ACS Biomaterials Science & Engineering
 https://pubs.acs.org/doi/full/10.1021/acsbiomaterials.2c00737 
 
-## This repository includes two models
+## This repository includes two pretrained models
 
 BERT-based transformer model: https://github.com/lamm-mit/CollagenTransformer/blob/main/CollagenTransformer_ProtBERT_Inference.ipynb
 
 Small transformer model: https://github.com/lamm-mit/CollagenTransformer/blob/main/CollagenTransformer_SmallTransformer_Inference.ipynb 
+
+## Training and inference
+
+BERT-based transformer model: https://github.com/lamm-mit/CollagenTransformer/blob/main/CollagenTransformer_ProtBERT_training%20and%20inference.ipynb
